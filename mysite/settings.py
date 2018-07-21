@@ -101,6 +101,10 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
+STATICFILES_DIRS = [
+  '/home/lemonitsa/Django_tutorial/blog/static/',
+]
+
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
 
